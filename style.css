@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.box-1 {
+  border-radius: 4px;
+  background-color: rgb(133, 99, 212);
+}
+.box-2 {
+  border-radius: 4px;
+  background-color: rgb(83, 75, 75);
+}
+.box-3 {
+  border-radius: 4px;
+  background-color: whitesmoke;
+}
+.box-4 {
+  border-radius: 4px;
+  background-color: rgb(58, 56, 56);
+}
+.box-5 {
+  border-radius: 4px;
+  background-color: whitesmoke;
+}
